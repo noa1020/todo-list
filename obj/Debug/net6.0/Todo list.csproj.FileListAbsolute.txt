@@ -1,0 +1,27 @@
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Todo list.exe
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Todo list.deps.json
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Todo list.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Todo list.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Todo list.pdb
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\scopedcss\bundle\Todo list.styles.css
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\refint\Todo list.dll
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.pdb
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\Todo list.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\יד\CORE\שיעורי בית\Todo list\obj\Debug\net6.0\ref\Todo list.dll

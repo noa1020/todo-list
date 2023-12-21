@@ -1,0 +1,56 @@
+using Microsoft.AspNetCore.Mvc;
+using Todo_list.Models;
+using Todo_list.Services;
+
+namespace Todo_list.Controllers;
+
+[ApiController]
+[Route("[controller]")]
+public class TodoController : ControllerBase
+{
+    [HttpGet]
+    public ActionResult<List<Todo>> Get()
+    {
+        return TodoService.GetAll();
+    }
+
+    [HttpGet("{id}")]
+    public ActionResult<Todo> Get(int id)
+    {
+        var Todo = TodoService.GetById(id);
+        if (Todo == null)
+            return NotFound();
+        return Todo;
+    }
+
+    [HttpPost]
+    public ActionResult Post(Todo newTodoa)
+    {
+        var newId = TodoService.Add(newTodoa);
+
+        return CreatedAtAction("Post",
+            new { id = newId }, TodoService.GetById(newId));
+    }
+
+    [HttpPut("{id}")]
+    public ActionResult Put(int id, Todo newTodoa)
+    {
+        var result = TodoService.Update(id, newTodo);
+        if (!result)
+        {
+            return BadRequest();
+        }
+        return NoContent();
+    }
+    [HttpDelete("{id}")]
+    public ActionResult Delete(int id)
+    {
+        var Todo = TodoService.Delete(id);
+        if (!result)
+        {
+            return BadRequest();
+        }
+        return NoContent();
+
+    }
+}
